@@ -13,8 +13,8 @@ I use it to add files to a new commit
 
 **3- ( git commit )**
 
-`*git commit -m "< Message >"*` 
-I use it to commit the added files.
+*git commit -m "< Message >"* 
+`I use it to commit the added files.`
 
 
 **Note:** 
